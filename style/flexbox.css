@@ -49,7 +49,7 @@ header {
 }
 
 .lower {
-    flex: 1;
+   
     display: flex;
     gap: 12ch;
     margin-left: 25ch;
@@ -114,13 +114,13 @@ button {
     margin-bottom: 10ch;
     margin-top: 8ch;
     flex-flow: row wrap;
-    flex: 1;
+
 }
 
 .laptop-pic {
     width: 600px;
     height: 225px;
-    flex: 1;
+
 }
 
 .test-sec {

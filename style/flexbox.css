@@ -2,16 +2,16 @@ body {
     max-width: 100%;
     margin: 0%;
     padding: 0%;
-    flex: 1;
     min-width: 1300px;
+
 }
 
 header {
     background-color: #1F2937;
     max-width: 100%;
-        margin: 0%;
-        padding: 0%;
-    flex: 1;
+    margin: 0%;
+    padding: 0%;
+
 
 
 }
@@ -22,6 +22,7 @@ header {
     display: flex;
     margin-left: 25ch;
     margin-right: 25ch;
+
 
 }
 
@@ -49,7 +50,7 @@ header {
 }
 
 .lower {
-   
+
     display: flex;
     gap: 12ch;
     margin-left: 25ch;
@@ -151,9 +152,9 @@ button {
 
 .testimonial-images {
     display: flex;
-    justify-content: center;
     flex: 1;
-    margin: right 15ch;
+    justify-content: center;
+    margin-right: 15ch;
     margin-left: 15ch;
     flex-wrap: wrap;
     text-align: center;
